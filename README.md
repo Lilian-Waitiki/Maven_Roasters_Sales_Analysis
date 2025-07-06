@@ -14,9 +14,9 @@ This project presents a sales analysis for **Maven Roasters**, a coffee shop cha
 
 ## Key Features
 
+- **Store Location Comparison:** Highlights performance differences across three locations
 - **Monthly Sales Trends:** Tracks sales growth and seasonality over time  
-- **Daily and Hourly Patterns:** Identifies peak sales days and hours for staffing & operations  
-- **Store Location Comparison:** Highlights performance differences across three locations  
+- **Daily and Hourly Patterns:** Identifies peak sales days and hours for staffing & operations 
 - **Product Performance:** Analyzes best- and worst-selling products by revenue and volume  
 - **Volume Analysis:** Compares revenue against quantity sold to identify pricing and sales efficiency opportunities
 
