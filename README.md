@@ -26,6 +26,7 @@ This project presents a sales analysis for **Maven Roasters**, a coffee shop cha
 ## 📁 Project Files
 
 - [Project Overview](README.md) - This documentation
+- [The data set](1_Coffee_Shop_Sales_data) - an excel file containing the data used in this project
 - [The Power BI Dashboard](Maven_Sales_Dashboard.pbix) - Power BI file containing all data transformations and visuals  
 - The Presentation in [power point](Presentation.pptx) or in [pdf](Maven_Roasters_Presentation.pdf) format - Slide deck summarizing findings and recommendations
 
