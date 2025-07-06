@@ -26,7 +26,7 @@ This project presents a sales analysis for **Maven Roasters**, a coffee shop cha
 ## 📁 Project Files
 
 - [The Power BI Dashboard](Maven_Sales_Dashboard.pbix) — Power BI file containing all data transformations and visuals  
-- [The Presentation](Presentation.pptx) — Slide deck summarizing findings and recommendations  
+- The Presentation in [power point](Presentation.pptx) or in [pdf](Maven_Roasters_Presentation.pdf)— Slide deck summarizing findings and recommendations  
 - `README.md` — This documentation
 
 ---
