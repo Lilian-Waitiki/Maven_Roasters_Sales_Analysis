@@ -1,5 +1,6 @@
 # Maven Roasters Sales Dashboard
 This project presents a sales analysis for **Maven Roasters**, a coffee shop chain with three New York City locations. The objective was to explore and visualize customer purchasing behavior across time, location, and product categories, using real transaction-level data.
+<br> Find the data source [here](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop%20sales%20)
 
 ---
 ## Project Overview
@@ -24,8 +25,8 @@ This project presents a sales analysis for **Maven Roasters**, a coffee shop cha
 
 ## 📁 Project Files
 
-- `Maven_Sales_Dashboard.pbix` — Power BI file containing all data transformations and visuals  
-- `Maven_Sales_Presentation.pptx` — Slide deck summarizing findings and recommendations  
+- [The Power BI Dashboard](Maven_Sales_Dashboard.pbix) — Power BI file containing all data transformations and visuals  
+- [The Presentation](Maven_Sales_Presentation.pdf) — Slide deck summarizing findings and recommendations  
 - `README.md` — This documentation
 
 ---
