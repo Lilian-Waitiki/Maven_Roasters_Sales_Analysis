@@ -1,6 +1,6 @@
 # Maven Roasters Sales Dashboard
-This project presents a sales analysis for **Maven Roasters**, a coffee shop chain with three New York City locations. The objective was to explore and visualize customer purchasing behavior across time, location, and product categories, using real transaction-level data.
-<br> Find the data source [here](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop%20sales%20)
+This project presents a sales analysis for **Maven Roasters**, a coffee shop chain with three New York City locations (Astoria, Lower Manhattan and Hell's Kitcehn). The objective was to explore and visualize customer purchasing behavior across time, location, and product categories, using real transaction-level data.
+<br> You can find the original data used in this project [here](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop%20sales%20)
 
 ---
 ## Project Overview
